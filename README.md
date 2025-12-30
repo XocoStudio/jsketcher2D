@@ -6,8 +6,8 @@ JSketcher is a **parametric** 2D and 3D CAD modeler written in pure javascript
 
 
 <a href='https://www.youtube.com/watch?v=Vk3TTp8hNxQ&list=PLeoCiKHizvH8PZEyFvThHzVlnTF5XaL-R'> 
-![JSketcher PANTALLA](.JSKETCH1.JPG)
-![JSketcher PANTALLA](.JSKETCH.JPG)
+![JSketcher PANTALLA](JSKETCH1.JPG)
+![JSketcher PANTALLA](JSKETCH.JPG)
 </a>
 
 [YouTube Tutorial Video](https://www.youtube.com/watch?v=Vk3TTp8hNxQ&list=PLeoCiKHizvH8PZEyFvThHzVlnTF5XaL-R)
