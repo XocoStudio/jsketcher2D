@@ -10,11 +10,6 @@ JSketcher is a **parametric** 2D and 3D CAD modeler written in pure javascript
 
 <a href='https://www.youtube.com/watch?v=Vk3TTp8hNxQ&list=PLeoCiKHizvH8PZEyFvThHzVlnTF5XaL-R'> </a>
 
-![JSketcher PANTALLA](JSKETCH1.jpg)
-![JSketcher PANTALLA](JSKETCH.jpg)
-
-
-
 [YouTube Tutorial Video](https://www.youtube.com/watch?v=Vk3TTp8hNxQ&list=PLeoCiKHizvH8PZEyFvThHzVlnTF5XaL-R)
 
 [Live Sample Demo](http://web-cad.org/?com.github.jsketcher-sample-models.MODELS.Flag-Holder)
