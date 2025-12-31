@@ -14,7 +14,7 @@ JSketcher is a **parametric** 2D and 3D CAD modeler written in pure javascript
 
 [Live Sample Demo](http://web-cad.org/?com.github.jsketcher-sample-models.MODELS.Flag-Holder)
 
-[2D Sketcher](http://web-cad.org/sketcher.html#__sample2D__)
+[2D Sketcher](https://xocostudio.github.io/jsketcher2D/sketcher.html)
 
 [Help Docs](./web/docs/index.md)
 
